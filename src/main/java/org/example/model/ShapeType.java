@@ -1,4 +1,5 @@
 package org.example.model;
 
-public class ShapeType {
+public enum ShapeType {
+    I, J, L, O, S, T, Z
 }

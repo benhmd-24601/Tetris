@@ -1,0 +1,28 @@
+{
+  "rows" : 15,
+  "cols" : 8,
+  "speed" : 10,
+  "allowRotation" : true,
+  "tetrominoTypes" : [ "I", "J", "L", "O", "S", "T", "Z" ],
+  "resolutions" : [ {
+    "label" : "640×480",
+    "width" : 640,
+    "height" : 480,
+    "sidePanelWidth" : 180
+  }, {
+    "label" : "800×600",
+    "width" : 800,
+    "height" : 600,
+    "sidePanelWidth" : 200
+  }, {
+    "label" : "1024×768",
+    "width" : 1024,
+    "height" : 768,
+    "sidePanelWidth" : 220
+  }, {
+    "label" : "1280×720",
+    "width" : 1280,
+    "height" : 720,
+    "sidePanelWidth" : 240
+  } ]
+}
